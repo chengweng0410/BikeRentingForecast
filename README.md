@@ -5,5 +5,11 @@ This is a notebook on predicting total rentals of bike renting system. Bike rent
 
 **Business Question**: What is the predicted number of bike rental given weather data? 
 
+## Code and Resources Used
 
+**Python Version:** 3.7 <br>
+**Packages:** numpy, pandas, seaborn, matplotlib, sklearn <br>
+**IDE:** Google Colab <br> 
+**Dataset:** https://www.kaggle.com/c/bike-sharing-demand/overview <br>
+**Python Script:** [Notebook](https://colab.research.google.com/drive/1C-tv2pzjv9cHketUwl0Ahc1W4GpBA-Ms?usp=sharing)
 
