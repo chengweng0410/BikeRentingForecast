@@ -41,7 +41,7 @@ To understand the patterns and values of the data by using different types of vi
 #### Heatmap
 ![](/images/1.BRF_heatmap.png)
 
-#### Heatmap
+#### Weather VS Count (Boxplot)
 ![](/images/2.Boxplot.png)
 
 Based on the figures, the following inferences can be made
@@ -49,7 +49,7 @@ Based on the figures, the following inferences can be made
 * Spring season is with the lowest count as compared to Summer, Fall and Winter.
 * Most of the outliers are contributed by working (non holiday). 
 
-#### Heatmap
+#### Weather VS Count (Barplot)
 ![](/images/3.BRF_Barplot.png)
 
 Based on the figures, the following inferences can be made
@@ -59,29 +59,25 @@ Based on the figures, the following inferences can be made
 * The count of bike rental is about the same from Saturday to Friday. 
 * The number of bike rental is high when weather is 1 (Clear, Few clouds, Partly cloudy, Partly cloudy). This is followed by 2, 3 and the lowest when weather is 4. 
 
-#### Heatmap
+#### Distribution of Temperature, Humidity and Wind Speed VS Count
 ![](/images/4.BRF_Scatter.png)
 
-#### Heatmap
+#### Wind Speed VS Bike Rental Count
 ![](/images/5.BRF_windVSCount.png)
 
 * It can be seen that both temperature and atemp are with low correlation with count. Hence, we may consider only temperature or aTemp in the machine learning model training. 
 * For humidity, it did not show any correlation with count. 
 * As for wind speed, gentle breeze of wind speed gives the highest number of bike rental. The higher the wind speed, the lower the bike rental (strong breeze - violet storm)
 
-#### Heatmap
+#### Hour VS Bike Rental Count
 ![](/images/6.BRF_hourVSCount_season.png)
 
-#### Heatmap
 ![](/images/7.BRF_hourVSCount_dayofweek.png)
 
-#### Heatmap
 ![](/images/8.BRF_hourVSCount_workingday.png)
 
-#### Heatmap
 ![](/images/9.BRF_hourVSCount_holiday.png)
 
-#### Heatmap
 ![](/images/10.BRF_hourVSCount_windgp.png)
 
 * The trend for different seasons are about the same, where there are two peak seasons with high number of bike rental, i.e. in between 7am to 9am and 4pm to 8pm. 
