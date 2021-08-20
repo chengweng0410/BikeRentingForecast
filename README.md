@@ -21,7 +21,7 @@ The dataset used in this project can be downloaded from Kaggle (link as shown ab
 * holiday - whether the day is considered a holiday
 * workingday - whether the day is neither a weekend nor holiday
 * weather <br> 
-1: Clear, Few clouds, Partly cloudy, Partly cloudy <br>  
+1: Clear, Few clouds, Partly cloudy, Partly cloudy 
 2: Mist + Cloudy, Mist + Broken clouds, Mist + Few clouds, Mist <br> 
 3: Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds <br> 
 4: Heavy Rain + Ice Pallets + Thunderstorm + Mist, Snow + Fog  <br> 
