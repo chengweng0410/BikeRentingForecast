@@ -4,7 +4,7 @@
 1. Tong Qiao En
 2. Tan Peck Yen
 
-**Instructor**: Dr Fong Cheng Weng
+**Lecturer**: Dr Fong Cheng Weng
 
 This is a notebook on predicting total rentals of bike renting system. Bike renting system is a system for bicyles renting, including processes getting membership, rental and bike return through kiosk located throughout a city. Data generated (date, season, wind speed, temperature, humidity etc) from this system is used to predict the number of future rental. <br>
 
